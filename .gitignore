@@ -1,0 +1,50 @@
+# WordPress core files (not needed in theme repo)
+wp-admin/
+wp-includes/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node & Composer dependencies (if used later)
+node_modules/
+vendor/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# System cache
+.cache/
+*.zip
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# WordPress uploads or cache (if testing locally)
+wp-content/uploads/
+wp-content/cache/
+
+# Build/compiled files
+/dist/
+*.map
+
+# Ignore composer lock if using shared dependencies
+composer.lock
+package-lock.json
