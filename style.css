@@ -1,0 +1,21 @@
+/*
+Theme Name: Sana Portfolio
+Theme URI:  https://devsanaa.com/
+Author:     Sana Ullah
+Author URI: https://devsanaa.com/
+Description: A minimal learning theme (no WooCommerce) with Customizer & menus.
+Version:    1.0.0
+Text Domain: sanaportfolio
+Tags:       one-column, custom-logo, custom-menu
+*/
+body{
+    margin: 0;
+}
+
+/* html,body{
+    overflow-x: hidden !important;
+} */
+
+
+
+

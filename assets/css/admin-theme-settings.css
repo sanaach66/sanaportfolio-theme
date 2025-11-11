@@ -1,0 +1,34 @@
+/* assets/css/admin-theme-settings.css */
+
+.sanaportfolio-admin-page {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 900px;
+}
+
+.sanaportfolio-admin-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.sanaportfolio-admin-page table.form-table th {
+    width: 200px;
+    vertical-align: top;
+    padding-top: 12px;
+}
+
+.sanaportfolio-admin-page input.regular-text,
+.sanaportfolio-admin-page textarea {
+    width: 100%;
+    max-width: 500px;
+}
+
+.logo-preview img {
+    display: block;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 6px;
+    background: #fafafa;
+}
